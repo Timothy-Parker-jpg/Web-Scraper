@@ -2,3 +2,4 @@ ScrapeToObjTest.py
 NASDAQ.csv
 __pycache__/
 stockConstructor.py
+*.txt
